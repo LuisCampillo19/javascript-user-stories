@@ -16,7 +16,7 @@ while (true){
     }else if (age > 17 && age < 100){
         alert(`Hello ${name}, you are of legal age. Keep learning and enjoying coding!`)
         break;
-    } else{ //repeat the cycle if you make a mistake
+    } else{ //repeat the cycle if you make a
         alert(`Hello ${name}, please note that valid ages are 1 to 99 years old!`)
     }
 }

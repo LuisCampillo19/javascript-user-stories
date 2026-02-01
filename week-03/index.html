@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation & Persistence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+        <h1>NoteApp</h1>
+        <p>Introduce una nota a continuación y haz clic en "Añadir" para guardarla.</p>
+
+        <div class="input-group">
+            <input type="text" id="noteInput" placeholder="Escribe aquí..." aria-label="Nueva nota">
+            <button id="addBtn">Nueva nota</button>
+        </div>
+
+        <hr>
+
+        <ul id="notesList"></ul>
+    </main>
+
+    <script src="manipulation_dom.js"></script>
+</body>
+</html>
