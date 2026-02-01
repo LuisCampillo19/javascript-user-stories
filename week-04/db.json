@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "price": 2500
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 25
+    },
+    {
+      "id": "b0cc",
+      "name": "asdas",
+      "price": 12220
+    },
+    {
+      "id": "b03c",
+      "name": "askdja",
+      "price": 123
+    },
+    {
+      "id": "eef0",
+      "name": "sdasd",
+      "price": 23413
+    },
+    {
+      "id": "b6b1",
+      "name": "sdasd",
+      "price": 2231
+    }
+  ]
+}
